@@ -1,0 +1,20 @@
+# Data and large analysis objects
+data/
+*.rds
+*.RDS
+*.h5
+*.h5ad
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Generated outputs
+results/generated/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
